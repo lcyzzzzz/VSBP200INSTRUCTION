@@ -49,10 +49,15 @@ selection (power saving, noise reduction, adaptation to application cycle)
 
 solvent flush kit
 易于保养维护，包含溶剂清洁套件
-## What you can do using <API name>
 
-Provide some simple usage examples to help users get started quickly.
 
+
+
+## 2.Applications
+* Freeze drying
+* Surface analyzers
+* Plasma cleaning
+* Drying, cleaning
 ## Authentication
 
 Explain the authentication methods and requirements for accessing the API.
@@ -73,7 +78,7 @@ Describe the API's error response format and provide common error codes and thei
 
 ## Versioning
 
-Explain how the API versioning works and how to specify the desired API version in requests.
+version 0.1 
 
 <seealso>
 
