@@ -2,7 +2,7 @@
 
 <!-- This document provides an introduction into your API. -->
 
-## 1.Introduction
+## 1.Introduction 介绍
 
 Provide a brief introduction to the API, explaining its purpose and scope.
 ### 1.1 scope and definitions 概述
@@ -53,32 +53,21 @@ solvent flush kit
 
 
 
-## 2.Applications
-* Freeze drying
-* Surface analyzers
-* Plasma cleaning
-* Drying, cleaning
-## Authentication
+## 2.Applications 应用
+* Freeze drying 冻干行业
+* Surface analyzers 表面分析
+* Plasma cleaning 等离子清洗
+* Drying cleaning 真空干燥
 
-Explain the authentication methods and requirements for accessing the API.
 
-## Base URL
-
-Specify the base URL for making API requests.
-
-If you have more than one environment (production and sandbox) explain the difference and provide links to both.
-
-## Rate Limiting
-
-Explain any rate limiting policies, if applicable.
-
-## Error Handling
+## 3.Error Handling 警告处理
 
 Describe the API's error response format and provide common error codes and their meanings.
 
 ## Versioning
 
 version 0.1 
+
 
 <seealso>
 

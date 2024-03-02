@@ -1,15 +1,44 @@
-# API Quickstart
+# QUICK INSTALLATION 快速安装
 
 <!-- This document describes how to start using your API: authorization, authentication, accessing API resources. -->
-In this section, you'll find a step-by-step guide to quickly start using the API.
+In this section, you'll find a step-by-step guide to install and operate.
+本章节中，快速安装、操作本机组。
 
 ## Prerequisites
+{type="full" sorted="asc"}
+First step:check the accessory list
+第一步:确认配件清单
+:
+<table style="both">
+    <tr>
+        <td width="20">
+        步骤
+        </td>
+        <td> 
+        描述
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1
+        </td>
+        <td>
+        检查配件
+        </td>
+    </tr>
+    <tr>
+        <td>
+        333333
+        </td>
+    </tr>
+</table>
 
-List any prerequisites or dependencies that users need to have in place before they can start using the API.
 
-* Pre-requisite one
-* Pre-requisite two
 
+Second step 第二步
+: This is the definition of the second term.
+
+    
 ## Authentication
 
 Explain how to authenticate with the API, including obtaining API keys or tokens.
